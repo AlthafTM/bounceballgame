@@ -22,4 +22,4 @@ Created by Althaf Tristan Maheswara. See the [portfolio](https://althafm.is-a.de
 
 ## License
 
-See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+Project license: [Apache License 2.0](LICENSE). See [NOTICE](NOTICE) for attribution.
